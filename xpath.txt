@@ -1,0 +1,5 @@
+Links = '//text-fill[not(@class)]/a/@href'
+Title = '//div[@class="mb-auto"]/text-fill/span/text()'
+Author = '//div[@class="autorArticle"]/p/text()'
+Summary = '//div[@class="lead"]/p/text()'
+Body = '//div[@class="html-content"]/p/text()'
